@@ -1,0 +1,19 @@
+#Creado por: Catalina Jolomocox
+#Archivos a ignorar
+
+#ignorar archivos de Microsoft Word
+*.doc
+*.docx
+
+#ignorar archivos de Microsoft Excel
+*.xls
+*.xlsx
+
+#ignorar archivos gif
+*.gif
+
+#ignorar archivos de la carpeta CONFIGURACION
+*CONFIGURACION/
+
+#ignorando un achivo especifico
+.txt
